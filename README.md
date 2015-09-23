@@ -1,8 +1,8 @@
-# Casper
+# Tandavas Ghost Blog Theme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Live: [blog.tandavas.com](http://blog.tandavas.com/)
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Based from the default Ghost theme Casper.
 
 ## Copyright & License
 
